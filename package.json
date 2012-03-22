@@ -1,0 +1,18 @@
+{
+  "name": "premium-oneprice",
+  "version": "0.0.42",
+  "fullName": "Good template",
+  "joshfire": {
+    "devices": [
+      {
+        "devices": "*",
+        "startfile": "index.html"
+      }
+    ],
+    "premium": true,
+    "price": {
+      "eur": 399,
+      "usd": 533
+    }
+  }
+}
