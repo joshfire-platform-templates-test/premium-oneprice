@@ -10,9 +10,14 @@
       }
     ],
     "premium": true,
-    "price": {
-      "eur": 399,
-      "usd": 533
+    "prices":{
+      "*":{
+        "onetime": {
+          "eur": 399,
+          "usd": 533
+        }
+      }
     }
+    
   }
 }
